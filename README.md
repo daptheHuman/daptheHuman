@@ -1,5 +1,7 @@
 ## Hi there, Dafa here👋
-![Hi](https://media4.giphy.com/media/3o7budMRwZvNGJ3pyE/giphy.gif)
+<div align="center">
+<img src="https://media4.giphy.com/media/3o7budMRwZvNGJ3pyE/giphy.gif">
+</div>
 
 My name is Dafa from Jakarta, Indonesia. Currently studying for a bachelor's degree at President University majoring in IT. A person who loves coding and memes
 
@@ -32,4 +34,7 @@ My name is Dafa from Jakarta, Indonesia. Currently studying for a bachelor's deg
 ---
 [![Twitter](https://img.shields.io/badge/@daptheHuman-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/daptheHuman)
 [![Instagram](https://img.shields.io/badge/@daptheHuman-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daptheHuman/)
-
+ 
+<div align="center">
+<img src="https://media3.giphy.com/media/9C1nyePnovqlpEYFMD/giphy.gif">
+</div>
